@@ -1,4 +1,7 @@
-電子工作とかする．<br>
+## Hi 👋, I'm Nanraka
+
+こんにちは．何らかです．<br>
+電子工作とかします．<br>
 My favorite pastime is electronic work．<br>
 <br>
 <br>
