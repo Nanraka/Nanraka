@@ -1,4 +1,3 @@
-<h2 align="center">Hi 👋, I'm Nanraka</h2>
 電子工作とかする．<br>
 My favorite pastime is electronic work．<br>
 <br>
