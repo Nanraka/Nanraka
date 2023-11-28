@@ -11,7 +11,7 @@ My favorite pastime is electronic work．<br><br>
 </a>
 <!-- top langs -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanraka&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanraka&count_private=true&theme=dark" />
 </a>
 
 <!-- トロフィー -->
