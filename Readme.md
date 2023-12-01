@@ -1,5 +1,6 @@
 ## Hi 👋, I'm Nanraka
-My favorite pastime is electronic work．<br><br>
+My favorite pastime is electronic work．<br>
+I would like to publish the circuit CAD data. <br><br>
 こんにちは．何らかです．<br>
 気ままに電子工作します．<br>
 <br>
