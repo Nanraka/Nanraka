@@ -7,8 +7,9 @@ I would like to publish the circuit CAD data. <br><br>
 <br>
 
 <!-- トロフィー -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nanraka&theme=onestar&&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2)](https://github.com/ryo-ma/github-profile-trophy)
-
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=Nanraka&theme=onestar&&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2" />
+</a>
 <!-- status -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nanraka&count_private=true&show_icons=true&theme=dark" />
