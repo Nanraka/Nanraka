@@ -14,6 +14,7 @@ I would like to publish the circuit CAD data. <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanraka&count_private=true&theme=dark" />
 </a>
-<br>
+
+
 <!-- トロフィー -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nanraka&theme=onestar&&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2)](https://github.com/ryo-ma/github-profile-trophy)
