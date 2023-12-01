@@ -4,17 +4,22 @@ I would like to publish the circuit CAD data. <br><br>
 こんにちは．何らかです．<br>
 気ままに電子工作します．<br>
 <br>
-<br>
 
 <!-- トロフィー -->
+<p>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=Nanraka&theme=onestar&&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2" />
 </a>
+</p>
 <!-- status -->
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nanraka&count_private=true&show_icons=true&theme=dark" />
 </a>
+</p>
 <!-- top langs -->
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanraka&count_private=true&theme=dark" />
 </a>
+</p>
