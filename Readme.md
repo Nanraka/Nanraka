@@ -7,6 +7,7 @@ I would like to publish the circuit CAD data. <br><br>
 <br>
 
 <!-- status -->
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nanraka&count_private=true&show_icons=true&theme=dark" />
 </a>
@@ -14,6 +15,7 @@ I would like to publish the circuit CAD data. <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanraka&count_private=true&theme=dark" />
 </a>
+</p>
 
 
 <!-- トロフィー -->
