@@ -1,7 +1,7 @@
-## Hi 👋, I'm Nanraka
+## Hi 👋, I'm Nyanraka
 My favorite pastime is electronic work．<br>
 I would like to publish the circuit CAD data. <br><br>
-こんにちは．何らかです．<br>
+こんにちは．Nyanrakaです．<br>
 気ままに電子工作します．<br>
 
 <!-- トロフィー -->
