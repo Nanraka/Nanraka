@@ -5,6 +5,7 @@ I would like to publish the circuit CAD data. <br><br>
 気ままに電子工作します．<br>
 
 <!-- トロフィー -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nanraka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=Nanraka&theme=onestar&&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2" />
 </a>
