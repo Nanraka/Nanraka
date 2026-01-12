@@ -1,10 +1,8 @@
 ## Hi 👋, I'm Nyanraka
-My favorite pastime is electronic work．<br>
-I would like to publish the circuit CAD data. <br><br>
 こんにちは．Nyanrakaです．<br>
 気ままに電子工作します．<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=Electronics;3D+CAD;Programming" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=My+favorite+pastime+is+electronic+work;I+would+like+to+publish+the+circuit+CAD+data,3D+CAD+data,and+Program,." />
 
 <!-- トロフィー --
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nanraka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
