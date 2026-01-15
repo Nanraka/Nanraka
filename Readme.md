@@ -10,3 +10,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanraka&layout=compact&theme=tokyonight" />
 <img src="https://github-profile-trophy.vercel.app/?username=Nanraka&theme=dracula&column=7&margin-w=15&margin-h=15">
 -->
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,c,googleappsscript,inkscape,grafana,latex,matlab,matplotlib,notion,obs,python,processing,tailscale,vscode,wireshark&titles=true)
