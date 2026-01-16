@@ -5,6 +5,8 @@
 ゆるふわエンジニア．<br>
 気ままに電子工作します．<br>
 
+![](https://komarev.com/ghpvc/?username=Nanraka&color=brightgreen)
+
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=Nanraka&show_icons=true&theme=tokyonight&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanraka&layout=compact&theme=tokyonight" />
