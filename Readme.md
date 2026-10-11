@@ -3,7 +3,7 @@
 
 
 ゆるふわエンジニア．<br>
-気ままに電子工作します．<br>
+気ままに何か作ります．<br>
 
 ![](https://komarev.com/ghpvc/?username=Nanraka&color=brightgreen)
 
